@@ -1,6 +1,5 @@
-
-
 # News Gateway App
+
 ## Introduction
 News Gateway is a comprehensive news application designed to deliver the most current news articles from a wide variety of news sources covering a range of categories. This application leverages the robust capabilities of NewsAPI.org to acquire news sources and articles.
 
@@ -10,7 +9,7 @@ News Gateway is a comprehensive news application designed to deliver the most cu
 3.The application allows for intuitive navigation with right swipes to read the next article and left swipes to go back to the previous article.
 4.Clicking on the article title, text, or image content redirects the user to the complete extended article on the news source’s website.
 5.The app features a professional-looking launcher icon.
-
+ 
 ## Data Sources
 News source and article data are acquired through the NewsAPI.org news aggregation service. This service allows downloading of news sources (all or by news type/category) and news articles (by news source).
 
